@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdljr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdljr&layout=compact)]()
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=phdljr)]()
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phdljr&show_icons=true&theme=radical)  
 
