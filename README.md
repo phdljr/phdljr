@@ -11,7 +11,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdljr&layout=compact)]()
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=phdljr)](https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=phdljr)](https://velog-readme-stats.vercel.app/api/redirect?name=phdljr)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phdljr&show_icons=true&theme=radical)  
 
