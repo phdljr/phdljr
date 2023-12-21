@@ -11,7 +11,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phdljr&layout=compact)]()
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=phdljr)](https://velog.io/@phdljr/TIL-DTO-class%EB%A5%BC-record%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=phdljr)](https://velog.io/@phdljr)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phdljr&show_icons=true&theme=radical)  
 
